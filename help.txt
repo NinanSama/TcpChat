@@ -1,5 +1,0 @@
-This document help you use this code!
-1、install the client
-2、register a account
-3、log in
-4、chat with others
