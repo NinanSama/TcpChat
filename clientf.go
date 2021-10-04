@@ -21,6 +21,7 @@ func ReadFromServer(conn net.Conn) {
 		fmt.Println(string(buf[:n]))
 	}
 }
+
 func WriteToServer(conn net.Conn) {
 	inputReader := bufio.NewReader(os.Stdin)
 	//tempnum := 0
